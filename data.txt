@@ -1,0 +1,4 @@
+Amit,Sales,120
+Ravi,Marketing,90
+Neha,Sales,150
+Pooja,HR,80
