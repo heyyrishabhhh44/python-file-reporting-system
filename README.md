@@ -1,18 +1,18 @@
-\# Python File Reporting System
+\# Python File-Based Reporting System
 
 
 
-A simple Python project to read structured data from a file and generate summary reports.
+This project demonstrates how to use Python for basic file handling and data reporting.
 
 
 
 \## Features
 
-\- Reads data from text file
+\- Reads data from a text file
 
-\- Calculates total and average values
+\- Calculates summary metrics like total and average
 
-\- Demonstrates file handling and reporting logic
+\- Generates simple console-based reports
 
 
 
@@ -22,13 +22,13 @@ A simple Python project to read structured data from a file and generate summary
 
 \- File Handling
 
+\- Basic Data Processing
 
 
-\## How to Run
 
-1\. Ensure Python is installed
+\## Use Case
 
-2\. Run: python main.py
+This project simulates a simple reporting workflow commonly used in business and operations environments.
 
 
 
